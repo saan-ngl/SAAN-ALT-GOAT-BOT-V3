@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/RMT8Tgj.jpeg" width="150" height="150" style="border-radius: 50%; border: 4px solid #7000ff; box-shadow: 0px 0px 35px rgba(112, 0, 255, 0.8); transition: 0.3s;" alt="NEGATIVE XALMAN" />
+  <img src="https://i.imgur.com/RMT8Tgj.jpeg" width="150" height="150" style="border-radius: 50%; border: 4px solid #7000ff; box-shadow: 0px 0px 35px rgba(112, 0, 255, 0.8); transition: 0.3s;" alt="SIAM AHMED SAAN" />
 </p>
 
 <h1 align="center">
@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/xalman.dev">
+  <a href="https://www.facebook.com/siam.ahmed.491801">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801876118312">
+  <a href="https://wa.me/88018987475***">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/goatbotnx/GOAT-BOT-V3">
+  <a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 ---
 
 ## 👨‍💻 Lead Developer
-**Xalman Hossain**  
+**Siam Ahmed Saan**  
 *Full Stack Developer | API Architect | Bot Systems Specialist*
 
 ---
@@ -66,7 +66,7 @@
 
 ### 1️⃣ Clone the Environment
 ```bash
-git clone https://github.com/goatbotnx/GOAT-BOT-V3.git
+git clone https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3.git
 cd GOAT-BOT-V3
 ```
 
