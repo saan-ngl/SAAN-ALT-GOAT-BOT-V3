@@ -145,7 +145,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━〔 👑 OWNER 〕━━━╮
-│ Name : negative xalman (nx)
+│ Name : 𝗦𝗜𝗔𝗠 𝗔𝗛𝗠𝗘𝗗 𝗦𝗔𝗔𝗡
 │ UID  : ${OWNER}
 ╰━━━━━━━━━━━━━━━━━━━━╯`;
 
