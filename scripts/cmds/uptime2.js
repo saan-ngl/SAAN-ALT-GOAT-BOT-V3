@@ -6,7 +6,7 @@ module.exports = {
     name: 'uptime2',
     aliases: ['upt2', 'up2'],
     version: '1.6',
-    author: '𝗦𝗜𝗔𝗠 𝗔𝗛𝗠𝗘𝗗 𝗦𝗔𝗔𝗡', /*create by siyuu full fixed and modified by 𝗦𝗔𝗔𝗡 𝗘𝗫𝗛𝗔𝗨𝗦𝗧𝗘𝗗*/
+    author: 'Siam Ahmed Saan', /*create by siyuu full fixed and modified by Saan*/
     countDown: 15,
     role: 0,
     shortDescription: 'Display bot uptime',
@@ -22,7 +22,7 @@ module.exports = {
   },
   onStart: async function ({ message, event, usersData, threadsData, api }) {
 
-    if (this.config.author !== '𝗦𝗔𝗔𝗡 𝗘𝗫𝗛𝗔𝗨𝗦𝗧𝗘𝗗') {
+    if (this.config.author !== 'Siam Ahmed Saan') {
       return message.reply("⚠ Unauthorized author change detected. Command execution stopped.");
     }
 
