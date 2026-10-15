@@ -1,259 +1,307 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=280&section=header&text=GOAT-BOT-UPDATED&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20Rebuilt.%20Refined.%20Reloaded.%20⚡&descSize=22&descAlignY=62&descColor=FFD700" width="100%"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=280&section=header&text=SAAN%20GOAT%20BOT&fontSize=66&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20BUILT%20DIFFERENT.%20POWERED%20BY%20SAAN.%20⚡&descSize=19&descAlignY=62&descColor=FFD700" width="100%"/><br><img src="https://i.imgur.com/BrdoafO.jpeg" width="90%" alt="SAAN GOAT BOT Banner"/><br><br>
 
-<img src="https://i.imgur.com/BrdoafO.jpeg" width="1942" height="809" alt="GOAT-BOT-UPDATED"><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+SAAN+GOAT+BOT;⚡+NEXT-GENERATION+MESSENGER+BOT;💎+PREMIUM+AUTOMATION+SYSTEM;🚀+FAST+%7C+STABLE+%7C+POWERFUL;🛡️+ENGINEERED+FOR+PERFORMANCE" alt="Typing Animation"/><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+GOAT-BOT-UPDATED;⚡+Next-Generation+Messenger+Bot;💎+Premium+Automation+System;🚀+Fast+%7C+Stable+%7C+Powerful;🛡️+Built+For+Performance" alt="Typing Animation"><br><br>
+<img src="https://komarev.com/ghpvc/?username=saan-ngl&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"/><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Fineshyt-Saan&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"><br><br>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/github/stars/saan-ngl/SAAN-ALT-GOAT-BOT-V3?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars"/>
+</a>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3/network/members">
+<img src="https://img.shields.io/github/forks/saan-ngl/SAAN-ALT-GOAT-BOT-V3?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks"/>
+</a>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/github/watchers/saan-ngl/SAAN-ALT-GOAT-BOT-V3?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers"/>
+</a>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/github/last-commit/saan-ngl/SAAN-ALT-GOAT-BOT-V3?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit"/>
+</a>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3/blob/main/LICENSE">
+<img src="https://img.shields.io/badge/LICENSE-CHECK%20REPOSITORY-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
+</a><br><br>
 
-<a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED">
-<img src="https://img.shields.io/github/stars/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
-</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED/network/members">
-<img src="https://img.shields.io/github/forks/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
-</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED">
-<img src="https://img.shields.io/github/watchers/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
-</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED">
-<img src="https://img.shields.io/github/last-commit/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
-</a><a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED/blob/main/LICENSE">
-<img src="https://img.shields.io/badge/LICENSE-MIT-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+🐐 SAAN GOAT BOT
+
+NEXT-GENERATION FACEBOOK MESSENGER AUTOMATION
+
+"POWERFUL" • "MODULAR" • "INTELLIGENT" • "CUSTOMIZABLE"
+
+Redefining automation. Built with ambition. Powered by SAAN.
+
+<br><a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository"/>
 </a></div>---
 
-<div align="center">🐐 GOAT-BOT-UPDATED
+✨ ABOUT THE PROJECT
 
-"Next-Generation Facebook Messenger Automation"
+SAAN GOAT BOT is a customizable Facebook Messenger automation project designed to deliver a powerful, modular, and feature-rich bot experience.
 
-Powerful • Modular • Fast • Customizable
+Built around a command-based architecture, the project can support automation, AI integrations, media utilities, group management, user management, and other features depending on the modules configured in the repository.
 
-</div>---
+Our vision is simple:
 
-✨ About
-
-GOAT-BOT-UPDATED is a powerful and modular Facebook Messenger automation bot designed for performance, flexibility and easy customization.
-
-The project provides a command-based architecture with support for automation, AI, media processing, user management, group management and premium features.
+«Build smarter. Automate better. Stand out.»
 
 ---
 
-🚀 Features
+🚀 CORE FEATURES
 
 <table>
 <tr>
-<td width="50%" valign="top">🤖 Automation
+<td width="50%" valign="top">🤖 AUTOMATION ENGINE
 
-- ⚡ Fast command execution
-- 🧩 Modular command system
-- 🔄 Event-based architecture
-- 📡 Real-time Messenger events
-- ⏱️ Command cooldown
+- ⚡ Command-based execution
+- 🧩 Modular command architecture
+- 🔄 Event-driven functionality
+- 📡 Messenger event handling
+- ⏱️ Command cooldown support
 - 🛠️ Custom event handlers
 
-</td><td width="50%" valign="top">👑 Premium
+</td>
+<td width="50%" valign="top">👑 PREMIUM EXPERIENCE
 
-- 💎 Premium membership
-- ⭐ VIP commands
+- 💎 Configurable premium system
+- ⭐ Restricted command support
 - 🔐 Role-based permissions
-- ⏳ Membership expiration
-- 👤 User management
-- 💬 Thread management
+- ⏳ Membership expiration support
+- 👤 User management utilities
+- 💬 Group and thread management
 
 </td>
 </tr><tr>
-<td width="50%" valign="top">🧠 AI
+<td width="50%" valign="top">🧠 AI & INTEGRATIONS
 
-- 🎨 AI image generation
-- 🎬 AI video generation
-- ✨ AI-powered commands
-- 🪄 Image transformation
-- 📝 Prompt processing
-- 🔌 External API integration
+- 🎨 AI image-generation integrations
+- 🎬 AI media integrations
+- ✨ Intelligent command extensions
+- 🪄 Image-processing utilities
+- 📝 Prompt-based workflows
+- 🔌 External API connectivity
 
-</td><td width="50%" valign="top">📦 Media
+</td>
+<td width="50%" valign="top">📦 MEDIA UTILITIES
 
 - 🖼️ Image processing
 - 🎵 Audio utilities
 - 🎬 Video utilities
-- 📥 Media downloading
-- 📤 File uploading
-- 🔗 URL processing
+- 📥 Media download integrations
+- 📤 File-processing functionality
+- 🔗 URL-processing utilities
 
 </td>
 </tr><tr>
-<td width="50%" valign="top">🛡️ Security
+<td width="50%" valign="top">🛡️ SECURITY & CONTROL
 
-- 🔒 Permission system
-- 👑 Admin controls
-- 🚫 Spam protection
+- 🔒 Permission management
+- 👑 Administrative controls
+- 🚫 Configurable spam protection
 - ⚠️ Error handling
-- 🧹 Automatic cleanup
+- 🧹 Resource cleanup
 - ⚙️ Configurable restrictions
 
-</td><td width="50%" valign="top">⚡ Performance
+</td>
+<td width="50%" valign="top">⚡ PERFORMANCE
 
-- 🚀 Lightweight architecture
+- 🚀 Modular architecture
 - 🔥 Optimized command loading
-- 📦 Modular dependencies
-- 🔄 Automatic recovery
-- 💾 Efficient data handling
-- 🧩 Easy extensibility
+- 📦 Dependency management
+- 🔄 Error-recovery mechanisms
+- 💾 Data-management utilities
+- 🧩 Extensible command system
 
 </td>
 </tr>
-</table>---
-
-🧠 Smart Role System
-
-Five clean permission tiers, checked in strict priority order.
-
-Role| Level| Source
-Developer| 4| "devUsers"
-Premium| 3| "premiumUsers"
-Bot Admin| 2| "adminBot"
-Group Admin| 1| thread's own admin list
-Member| 0| default
+</table>«Note: Available features depend on the actual implementation and configuration of the individual commands and modules.»
 
 ---
 
-🎨 Project Identity
+🧠 SMART ROLE SYSTEM
 
-<div align="center">🐐 Project| GOAT-BOT-UPDATED
+The project can use a hierarchical permission system to control command access.
+
+Role| Level| Purpose
+Developer| 4| Highest-level development permissions
+Premium| 3| Premium command access
+Bot Admin| 2| Bot administration
+Group Admin| 1| Group-level administrative access
+Member| 0| Standard user access
+
+The actual permission hierarchy depends on the project's implementation and configuration.
+
+---
+
+🎨 PROJECT IDENTITY
+
+<div align="center">PROPERTY| DETAILS
+🐐 Project| SAAN GOAT BOT
 👨‍💻 Developer| Siam Ahmed Saan
-🏷️ Brand| Saan Exhausted
-🟣 GitHub| Fineshyt-Saan
-🟢 Node.js| 22.x
-📜 License| MIT
+🏷️ Brand| SAAN EXHAUSTED
+🟣 GitHub| saan-ngl
+📦 Repository| SAAN-ALT-GOAT-BOT-V3
+🟢 Runtime| Node.js
+📜 License| See repository license
 
 </div>---
 
-🧩 Command Structure
+🧩 COMMAND ARCHITECTURE
 
-commands/
-├── admin/
-├── ai/
-├── fun/
-├── media/
-├── system/
-├── utility/
-└── owner/
+The project uses a modular command system. The actual directory structure may vary according to the repository version.
 
-Each command can define:
+A typical command module can include:
 
-- Name
-- Aliases
-- Version
-- Author
-- Role
-- Cooldown
-- Description
-- Guide
-- onStart
-- onReply
-- onChat
+- "name" — Command identifier
+- "aliases" — Alternative command names
+- "version" — Module version
+- "author" — Command author
+- "role" — Required permission level
+- "countDown" — Command cooldown
+- "description" — Command description
+- "guide" — Usage instructions
+- "onStart" — Command execution handler
+- "onReply" — Reply-event handler
+- "onChat" — Chat-event handler
+
+This structure helps developers customize individual commands without redesigning the entire project.
 
 ---
 
-📥 Installation
+📥 INSTALLATION
 
-git clone https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED.git
-cd SAAN-GOATBOT-V3-UPDATED
+1. Clone the repository
+
+git clone https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3.git
+
+2. Open the project directory
+
+cd SAAN-ALT-GOAT-BOT-V3
+
+3. Install dependencies
+
 npm install
 
 ---
 
-▶️ Start
+▶️ START THE BOT
+
+If "index.js" is the project's entry point and the required configuration is complete, run:
 
 node index.js
 
----
+Alternatively, if the repository defines a start script in "package.json", use:
 
-📋 Requirements
+npm start
 
-Requirement| Version
-🟢 Node.js| 20.x+
-📦 npm| 9+
-🔧 Git| Latest
-💬 Messenger Account| Required
+Important: Follow the configuration instructions and startup requirements included in the actual repository.
 
 ---
 
-⚙️ Configuration
+📋 REQUIREMENTS
 
-Configure the required project settings and account information according to the files included in the repository.
-
-After configuration:
-
-npm install
-node index.js
+REQUIREMENT| DETAILS
+🟢 Node.js| Version supported by the project
+📦 npm| Compatible with the selected Node.js version
+🔧 Git| Required to clone the repository
+💬 Messenger| Account and session configuration, if required
+🌐 Internet| Required for network-dependent features
+🔑 API Keys| Required only for integrations that use them
 
 ---
 
-📊 GitHub Statistics
+⚙️ CONFIGURATION
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fineshyt-Saan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fineshyt-Saan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br>
+Before starting the bot:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fineshyt-Saan&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
+1. Review the project's configuration files.
+2. Set up the required environment variables or credentials.
+3. Configure external API keys where needed.
+4. Install all required dependencies.
+5. Check the repository's startup instructions.
+6. Launch the bot using the supported entry point.
 
-👀 Visitor Counter
+Security reminder: Never publish session credentials, access tokens, passwords, or private API keys in your README or public repository.
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Fineshyt-Saan&label=SAAN-GOATBOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="SAAN-GOATBOT Visitors"></div>---
+---
 
-🌟 Project Goals
+📊 GITHUB STATISTICS
 
-<div align="center">⚡ Maximum Performance
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saan-ngl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%" alt="GitHub Statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saan-ngl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%" alt="Top Languages"/><br><br>
 
-🧩 Clean Architecture
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saan-ngl&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%" alt="GitHub Contribution Streak"/></div>---
 
-🔥 Powerful Automation
+👀 VISITOR COUNTER
 
-💎 Premium Experience
+<div align="center"><img src="https://komarev.com/ghpvc/?username=saan-ngl&label=SAAN%20GOAT%20BOT%20VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="SAAN GOAT BOT Visitors"/></div>---
 
-🛡️ Reliable Security
+🎯 PROJECT VISION
 
-🚀 Continuous Development
+<div align="center">⚡ PERFORMANCE FIRST
+
+🧩 MODULAR BY DESIGN
+
+🔥 POWERFUL AUTOMATION
+
+💎 PREMIUM IDENTITY
+
+🛡️ RESPONSIBLE DEVELOPMENT
+
+🚀 CONTINUOUS IMPROVEMENT
 
 </div>---
 
-🤝 Contributing
+🤝 CONTRIBUTING
 
-Contributions, suggestions and improvements are welcome.
+Contributions, suggestions, bug reports, and improvements are welcome.
 
-Fork
-  ↓
-Create Branch
-  ↓
-Make Changes
-  ↓
-Commit
-  ↓
-Push
-  ↓
-Pull Request
+Contribution workflow:
+
+Fork Repository
+      ↓
+Create a Branch
+      ↓
+Implement Changes
+      ↓
+Test Your Changes
+      ↓
+Commit Changes
+      ↓
+Push Your Branch
+      ↓
+Open a Pull Request
+
+Please keep contributions clean, documented, and compatible with the project's existing architecture.
 
 ---
 
-⭐ Support
+⭐ SUPPORT THE PROJECT
 
-<div align="center">If you like GOAT-BOT-UPDATED, consider supporting the project.
+<div align="center">If you appreciate SAAN GOAT BOT, support its development.
 
 ⭐ Star the repository
 
-🍴 Fork the repository
+🍴 Fork the project
 
 🐛 Report bugs
 
-💡 Suggest features
+💡 Suggest improvements
 
-🤝 Contribute
+🤝 Contribute to development
 
-</div>---
+<br><a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/badge/STAR%20THE%20REPOSITORY-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="Star Repository"/>
+</a></div>---
 
 <div align="center">💜 SAAN EXHAUSTED
 
-"SIAM AHMED SAAN"
+SIAM AHMED SAAN
 
 Developer • Builder • Creator
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=7000FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+AI+%7C+AUTOMATION;SAAN-GOATBOT-V3-UPDATED" alt="SAAN EXHAUSTED"><br><br>
+<br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=7000FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+AI+%7C+AUTOMATION;POWERED+BY+SAAN;SAAN+GOAT+BOT" alt="SAAN EXHAUSTED"/><br><br>
 
-<a href="https://github.com/Fineshyt-Saan/SAAN-GOATBOT-V3-UPDATED">
-<img src="https://img.shields.io/badge/SAAN--GOATBOT--V3--UPDATED-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="SAAN-GOATBOT-V3-UPDATED">
-</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7000FF,100:0D001A&height=140&section=footer" width="100%"></div>
+<a href="https://github.com/saan-ngl/SAAN-ALT-GOAT-BOT-V3">
+<img src="https://img.shields.io/badge/SAAN--GOAT--BOT-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="SAAN GOAT BOT"/>
+</a><br><br>
+
+"Built with vision. Driven by ambition. Defined by SAAN."
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7000FF,100:0D001A&height=140&section=footer" width="100%" alt="Footer Banner"/></div>
